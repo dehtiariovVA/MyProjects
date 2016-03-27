@@ -1,0 +1,8 @@
+D:\MyProjects\C#\FileSearching\bin\Debug\FinalTask.exe.config
+D:\MyProjects\C#\FileSearching\bin\Debug\FinalTask.exe
+D:\MyProjects\C#\FileSearching\bin\Debug\FinalTask.pdb
+D:\MyProjects\C#\FileSearching\obj\Debug\FinalTask.Form1.resources
+D:\MyProjects\C#\FileSearching\obj\Debug\FinalTask.Properties.Resources.resources
+D:\MyProjects\C#\FileSearching\obj\Debug\FileSearching.csproj.GenerateResource.Cache
+D:\MyProjects\C#\FileSearching\obj\Debug\FinalTask.exe
+D:\MyProjects\C#\FileSearching\obj\Debug\FinalTask.pdb

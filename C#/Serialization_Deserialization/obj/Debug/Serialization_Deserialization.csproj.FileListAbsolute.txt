@@ -1,0 +1,3 @@
+D:\MyProjects\C#\Serialization_Deserialization\bin\Debug\Task_3.exe.config
+D:\MyProjects\C#\Serialization_Deserialization\obj\Debug\Task_3.exe
+D:\MyProjects\C#\Serialization_Deserialization\obj\Debug\Task_3.pdb

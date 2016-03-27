@@ -1,0 +1,52 @@
+D:\C# Trainee\Tasks\Task_5\ContactManager_UI\ContactManager_UI\bin\Debug\ContactManager_UI.exe.config
+D:\C# Trainee\Tasks\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.csprojResolveAssemblyReference.cache
+D:\C# Trainee\Tasks\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.Form1.resources
+D:\C# Trainee\Tasks\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.Properties.Resources.resources
+D:\C# Trainee\Tasks\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.csproj.GenerateResource.Cache
+D:\C# Trainee\Tasks\Task_5\ContactManager_UI\ContactManager_UI\bin\Debug\ContactManager_UI.exe
+D:\C# Trainee\Tasks\Task_5\ContactManager_UI\ContactManager_UI\bin\Debug\ContactManager_UI.pdb
+D:\C# Trainee\Tasks\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.exe
+D:\C# Trainee\Tasks\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.pdb
+D:\C# Trainee\Tasks\Task_5\ContactManager_UI\ContactManager_UI\bin\Debug\ContactManager_Core.dll
+D:\C# Trainee\Tasks\Task_5\ContactManager_UI\ContactManager_UI\bin\Debug\ContactManager_Core.pdb
+C:\Users\Владимир\Desktop\Task_5\ContactManager_UI\ContactManager_UI\bin\Debug\ContactManager_UI.exe.config
+C:\Users\Владимир\Desktop\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.exe
+C:\Users\Владимир\Desktop\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.pdb
+C:\Users\Владимир\Desktop\Task_5\ContactManager_UI\ContactManager_UI\bin\Debug\ContactManager_UI.exe
+C:\Users\Владимир\Desktop\Task_5\ContactManager_UI\ContactManager_UI\bin\Debug\ContactManager_UI.pdb
+C:\Users\Владимир\Desktop\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.Form1.resources
+C:\Users\Владимир\Desktop\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.Properties.Resources.resources
+C:\Users\Владимир\Desktop\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.csproj.GenerateResource.Cache
+D:\C# Trainee\Task_5\ContactManager_UI\ContactManager_UI\bin\Debug\ContactManager_UI.exe.config
+D:\C# Trainee\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.exe
+D:\C# Trainee\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.pdb
+D:\C# Trainee\Task_5\ContactManager_UI\ContactManager_UI\bin\Debug\ContactManager_UI.exe
+D:\C# Trainee\Task_5\ContactManager_UI\ContactManager_UI\bin\Debug\ContactManager_UI.pdb
+D:\C# Trainee\Task_5\ContactManager_UI\ContactManager_UI\bin\Debug\ContactManager_Core.pdb
+D:\C# Trainee\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.csprojResolveAssemblyReference.cache
+D:\C# Trainee\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.Form1.resources
+D:\C# Trainee\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.Properties.Resources.resources
+D:\C# Trainee\Task_5\ContactManager_UI\ContactManager_UI\obj\Debug\ContactManager_UI.csproj.GenerateResource.Cache
+D:\C# Trainee\Tasks\Tasks\Task_5\ContactManager_UI\bin\Debug\ContactManager_UI.exe.config
+D:\C# Trainee\Tasks\Tasks\Task_5\ContactManager_UI\obj\Debug\ContactManager_UI.exe
+D:\C# Trainee\Tasks\Tasks\Task_5\ContactManager_UI\obj\Debug\ContactManager_UI.pdb
+D:\C# Trainee\Tasks\Tasks\Task_5\ContactManager_UI\bin\Debug\ContactManager_UI.exe
+D:\C# Trainee\Tasks\Tasks\Task_5\ContactManager_UI\bin\Debug\ContactManager_UI.pdb
+D:\C# Trainee\Tasks\Tasks\Task_5\ContactManager_UI\bin\Debug\ContactManager_Core.pdb
+D:\C# Trainee\Tasks\Tasks\Task_5\ContactManager_UI\obj\Debug\ContactManager_UI.csprojResolveAssemblyReference.cache
+D:\C# Trainee\Tasks\Tasks\Task_5\ContactManager_UI\obj\Debug\ContactManager_UI.Form1.resources
+D:\C# Trainee\Tasks\Tasks\Task_5\ContactManager_UI\obj\Debug\ContactManager_UI.Properties.Resources.resources
+D:\C# Trainee\Tasks\Tasks\Task_5\ContactManager_UI\obj\Debug\ContactManager_UI.csproj.GenerateResource.Cache
+D:\C# Trainee\Tasks\Tasks\Task_5\ContactManager_UI\bin\Debug\ContactManager_Core.dll
+D:\MyProjects\C#\ContactManager\ContactManager_UI\bin\Debug\ContactManager_UI.exe.config
+D:\MyProjects\C#\ContactManager\ContactManager_UI\bin\Debug\ContactManager_UI.exe
+D:\MyProjects\C#\ContactManager\ContactManager_UI\bin\Debug\ContactManager_UI.pdb
+D:\MyProjects\C#\ContactManager\ContactManager_UI\bin\Debug\ContactManager_Core.dll
+D:\MyProjects\C#\ContactManager\ContactManager_UI\bin\Debug\ContactManager_Core.pdb
+D:\MyProjects\C#\ContactManager\ContactManager_UI\obj\Debug\ContactManager_UI.csprojResolveAssemblyReference.cache
+D:\MyProjects\C#\ContactManager\ContactManager_UI\obj\Debug\ContactManager_UI.Form1.resources
+D:\MyProjects\C#\ContactManager\ContactManager_UI\obj\Debug\ContactManager_UI.Properties.Resources.resources
+D:\MyProjects\C#\ContactManager\ContactManager_UI\obj\Debug\ContactManager_UI.csproj.GenerateResource.Cache
+D:\MyProjects\C#\ContactManager\ContactManager_UI\obj\Debug\ContactManager_UI.exe
+D:\MyProjects\C#\ContactManager\ContactManager_UI\obj\Debug\ContactManager_UI.pdb

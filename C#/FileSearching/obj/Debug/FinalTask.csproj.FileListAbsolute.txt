@@ -1,0 +1,18 @@
+D:\C# Trainee\FinalTask\FinalTask\FinalTask\bin\Debug\FinalTask.exe.config
+D:\C# Trainee\FinalTask\FinalTask\FinalTask\bin\Debug\FinalTask.exe
+D:\C# Trainee\FinalTask\FinalTask\FinalTask\bin\Debug\FinalTask.pdb
+D:\C# Trainee\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.csprojResolveAssemblyReference.cache
+D:\C# Trainee\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.Form1.resources
+D:\C# Trainee\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.Properties.Resources.resources
+D:\C# Trainee\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.csproj.GenerateResource.Cache
+D:\C# Trainee\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.exe
+D:\C# Trainee\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.pdb
+C:\Users\Владимир\Desktop\FinalTask\FinalTask\FinalTask\bin\Debug\FinalTask.exe.config
+C:\Users\Владимир\Desktop\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.exe
+C:\Users\Владимир\Desktop\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.pdb
+C:\Users\Владимир\Desktop\FinalTask\FinalTask\FinalTask\bin\Debug\FinalTask.exe
+C:\Users\Владимир\Desktop\FinalTask\FinalTask\FinalTask\bin\Debug\FinalTask.pdb
+C:\Users\Владимир\Desktop\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.Form1.resources
+C:\Users\Владимир\Desktop\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.Properties.Resources.resources
+C:\Users\Владимир\Desktop\FinalTask\FinalTask\FinalTask\obj\Debug\FinalTask.csproj.GenerateResource.Cache

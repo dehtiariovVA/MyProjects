@@ -1,0 +1,3 @@
+D:\MyProjects\C#\Multithreading\bin\Debug\Task_4.exe.config
+D:\MyProjects\C#\Multithreading\obj\Debug\Task_4.exe
+D:\MyProjects\C#\Multithreading\obj\Debug\Task_4.pdb

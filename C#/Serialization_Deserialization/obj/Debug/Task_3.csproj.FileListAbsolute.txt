@@ -1,0 +1,16 @@
+D:\C# Trainee\Task_2\Task_3\Task_3\bin\Debug\Task_3.exe.config
+D:\C# Trainee\Task_3\Task_3\bin\Debug\Task_3.exe.config
+D:\C# Trainee\Task_3\Task_3\bin\Debug\Task_3.exe
+D:\C# Trainee\Task_3\Task_3\bin\Debug\Task_3.pdb
+D:\C# Trainee\Task_3\Task_3\obj\Debug\Task_3.csprojResolveAssemblyReference.cache
+D:\C# Trainee\Task_3\Task_3\obj\Debug\Task_3.exe
+D:\C# Trainee\Task_3\Task_3\obj\Debug\Task_3.pdb
+D:\C# Trainee\Tasks\Tasks\Task_3\bin\Debug\Task_3.exe.config
+D:\C# Trainee\Tasks\Tasks\Task_3\obj\Debug\Task_3.exe
+D:\C# Trainee\Tasks\Tasks\Task_3\obj\Debug\Task_3.pdb
+D:\Trainee\Tasks\Tasks\Task_3\bin\Debug\Task_3.exe.config
+D:\Trainee\Tasks\Tasks\Task_3\bin\Debug\Task_3.exe
+D:\Trainee\Tasks\Tasks\Task_3\bin\Debug\Task_3.pdb
+D:\Trainee\Tasks\Tasks\Task_3\obj\Debug\Task_3.csprojResolveAssemblyReference.cache
+D:\Trainee\Tasks\Tasks\Task_3\obj\Debug\Task_3.exe
+D:\Trainee\Tasks\Tasks\Task_3\obj\Debug\Task_3.pdb

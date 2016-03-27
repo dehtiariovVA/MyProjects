@@ -1,0 +1,37 @@
+	div 
+	{
+		border: 1px solid black;
+		padding-left: 10px;
+		width: 500px;
+		height: 400px;
+		visibility: hidden;
+		position: absolute;
+		top: 0; 
+		left: 10px;
+	}
+	.button1
+	{
+		position: absolute; 
+		bottom:0; 
+		left: 50px;
+	}
+	.button2
+	{
+		position: absolute; 
+		bottom:0; 
+		left: 0;
+	}
+	#finish
+	{
+		position: absolute; 
+		bottom: 0px; 
+		right:0px;
+	}
+	#errors
+	{
+		position: absolute; 
+		visibility: visible; 
+		border: 0px; 
+		top: 85px; 
+		left:250px;
+	}

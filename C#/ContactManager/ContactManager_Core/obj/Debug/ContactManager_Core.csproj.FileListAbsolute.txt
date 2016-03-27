@@ -1,0 +1,17 @@
+D:\C# Trainee\Tasks\Task_5\ContactManager_Core\bin\Debug\ContactManager_Core.dll
+D:\C# Trainee\Tasks\Task_5\ContactManager_Core\bin\Debug\ContactManager_Core.pdb
+D:\C# Trainee\Tasks\Task_5\ContactManager_Core\obj\Debug\ContactManager_Core.dll
+D:\C# Trainee\Tasks\Task_5\ContactManager_Core\obj\Debug\ContactManager_Core.pdb
+D:\C# Trainee\Task_5\ContactManager_Core\bin\Debug\ContactManager_Core.dll
+D:\C# Trainee\Task_5\ContactManager_Core\bin\Debug\ContactManager_Core.pdb
+D:\C# Trainee\Task_5\ContactManager_Core\obj\Debug\ContactManager_Core.csprojResolveAssemblyReference.cache
+D:\C# Trainee\Task_5\ContactManager_Core\obj\Debug\ContactManager_Core.dll
+D:\C# Trainee\Task_5\ContactManager_Core\obj\Debug\ContactManager_Core.pdb
+D:\C# Trainee\Tasks\Tasks\Task_5\ContactManager_Core\bin\Debug\ContactManager_Core.dll
+D:\C# Trainee\Tasks\Tasks\Task_5\ContactManager_Core\bin\Debug\ContactManager_Core.pdb
+D:\C# Trainee\Tasks\Tasks\Task_5\ContactManager_Core\obj\Debug\ContactManager_Core.dll
+D:\C# Trainee\Tasks\Tasks\Task_5\ContactManager_Core\obj\Debug\ContactManager_Core.pdb
+D:\MyProjects\C#\ContactManager\ContactManager_Core\bin\Debug\ContactManager_Core.dll
+D:\MyProjects\C#\ContactManager\ContactManager_Core\bin\Debug\ContactManager_Core.pdb
+D:\MyProjects\C#\ContactManager\ContactManager_Core\obj\Debug\ContactManager_Core.dll
+D:\MyProjects\C#\ContactManager\ContactManager_Core\obj\Debug\ContactManager_Core.pdb

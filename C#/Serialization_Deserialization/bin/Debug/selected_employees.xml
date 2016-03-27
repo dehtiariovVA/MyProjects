@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <LastName>Antonov</LastName>
+    <FirstName>Anton</FirstName>
+    <Age>35</Age>
+    <Addres>Street7</Addres>
+    <Department>Department7</Department>
+  </Employee>
+  <Employee>
+    <LastName>Ivanov</LastName>
+    <FirstName>Ivan</FirstName>
+    <Age>34</Age>
+    <Addres>Street1</Addres>
+    <Department>Department1</Department>
+  </Employee>
+  <Employee>
+    <LastName>Petrov</LastName>
+    <FirstName>Petr</FirstName>
+    <Age>27</Age>
+    <Addres>Street2</Addres>
+    <Department>Department2</Department>
+  </Employee>
+  <Employee>
+    <LastName>Sidorov</LastName>
+    <FirstName>Sidor</FirstName>
+    <Age>31</Age>
+    <Addres>Street3</Addres>
+    <Department>Department3</Department>
+  </Employee>
+</Employees>

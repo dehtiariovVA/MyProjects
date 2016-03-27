@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contacts>
+  <Contact>
+    <FirstName>Bob</FirstName>
+    <LastName>Bobus</LastName>
+    <Group>Friends</Group>
+    <HomeNumber>2569</HomeNumber>
+    <MobileNumber>2222</MobileNumber>
+    <Photo>1.jpg</Photo>
+  </Contact>
+  <Contact>
+    <FirstName>Tom</FirstName>
+    <LastName>Tomus</LastName>
+    <Group>Job</Group>
+    <HomeNumber>7898</HomeNumber>
+    <MobileNumber>6978</MobileNumber>
+    <Photo>2.jpg</Photo>
+  </Contact>
+  <Contact>
+    <FirstName>Jack</FirstName>
+    <LastName>Jackus</LastName>
+    <Group>Job</Group>
+    <HomeNumber>1111</HomeNumber>
+    <MobileNumber>5896</MobileNumber>
+    <Photo>no_photo.jpg</Photo>
+  </Contact>
+  <Contact>
+    <FirstName>Den</FirstName>
+    <LastName>Denus</LastName>
+    <Group>Friends</Group>
+    <HomeNumber>9999</HomeNumber>
+    <MobileNumber>2589</MobileNumber>
+    <Photo>no_photo.jpg</Photo>
+  </Contact>
+</Contacts>
